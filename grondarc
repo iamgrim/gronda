@@ -1,0 +1,27 @@
+#
+# Gronda Edit configuration file
+#
+
+# key bindings           
+
+kd bs 'ee -w' ke
+kd del 'ed' ke
+kd pgdown 'pv 10' ke
+kd pgup 'pv -10' ke
+kd home tl ke
+kd end tr ke
+
+kd f1 'dr;echo' ke
+kd f2 xc ke
+kd f3 xd ke
+kd f4 xp ke
+kd f5 'xd line_del' ke
+kd f8 wc ke
+
+kd right 'ar' ke
+kd left  'al' ke
+kd up 'au -s' ke
+kd down 'ad -s' ke
+
+showtabs -off
+
