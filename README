@@ -10,8 +10,8 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-	Gronda is a command based text editor based loosely on the editor
-	from Apollo Domain systems. 
+    Gronda is a command based text editor based loosely on the editor
+    from Apollo Domain systems. 
 	
-	It currently only has a terminal based front-end but was intended
-	to support multiple front-ends including an X11 interface.
+    It currently only has a terminal based front-end but was intended
+    to support multiple front-ends including an X11 interface.
