@@ -2,8 +2,8 @@
 #  Gronda Edit Makefile for Linux based systems
 #
 
-BINARY_NAME     = gce
-EDITOR_NAME     = "Gronda/Ce"
+BINARY_NAME     = gronda
+EDITOR_NAME     = "Gronda"
 EDITOR_VERSION  = "0.3.9b" 
 
 CC      = gcc
