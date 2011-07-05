@@ -242,6 +242,7 @@ void display_nextevent (int *key, int *mods)
 		*key = K_TAB;
 		break;
 	case 8:
+	case 127:
 		*key = K_BS;
 		break;
 	}
