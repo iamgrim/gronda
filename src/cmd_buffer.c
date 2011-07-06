@@ -125,6 +125,7 @@ void cmd_xp (int argc, char *argv[])
 
 	buf_name         = "default";
 	force_overstrike = 0;
+	shape = REGION_LINEAR;
 
 	for (a = 1; a < argc; a++)
 	{
